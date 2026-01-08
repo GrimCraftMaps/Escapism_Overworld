@@ -13,6 +13,6 @@ var UnminedMapProperties = {
     markers: new Array(),
     enableGrid: true,
     showGrid: false,
-    centerX: 387,
-    centerZ: 83
+    centerX: 390,
+    centerZ: 84
 }
