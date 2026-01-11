@@ -9,7 +9,7 @@ var UnminedMapProperties = {
     maxRegionX: 19,
     maxRegionZ: 17,
     worldName: "Escapism",
-    background: "#000000",
+    background: "#00000000",
     markers: new Array(),
     enableGrid: true,
     showGrid: false,
