@@ -4,15 +4,15 @@ var UnminedMapProperties = {
     maxZoom: 3,
     defaultZoom: 0,
     imageFormat: "jpeg",
-    minRegionX: -71,
-    minRegionZ: -29,
-    maxRegionX: 27,
-    maxRegionZ: 27,
+    minRegionX: -1,
+    minRegionZ: -1,
+    maxRegionX: 0,
+    maxRegionZ: 0,
     worldName: "Escapism",
     background: "#000000",
     markers: new Array(),
     enableGrid: true,
     showGrid: true,
-    centerX: 390,
-    centerZ: 62
+    centerX: 0,
+    centerZ: 0
 }
