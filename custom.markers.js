@@ -38,23 +38,9 @@ Use the imageScale property if the pin image is too large.
 
 UnminedCustomMarkers = {
 
-    isEnabled: true,
+    isEnabled: false,
 
     markers: [
-
-        // Grim — last known position
-        {
-            x: -13,
-            z: -48,
-            image: "grim-avatar.png",
-            imageAnchor: [0.5, 0.5],
-            imageScale: 1,
-            text: "Grim",
-            textColor: "white",
-            offsetX: 0,
-            offsetY: 24,
-            font: "bold 14px Calibri,sans serif",
-        },
 
         // add your markers here
 
