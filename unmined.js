@@ -429,6 +429,7 @@ class Unmined {
         marker.x = player.x;
         marker.z = player.z;
         marker.text = player.name;
+        marker.image = "playerimages/" + player.name + ".png";
         return marker;
     }
 
