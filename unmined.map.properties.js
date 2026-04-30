@@ -6,7 +6,7 @@ var UnminedMapProperties = {
     imageFormat: "jpeg",
     minRegionX: -7,
     minRegionZ: -3,
-    maxRegionX: 1,
+    maxRegionX: 3,
     maxRegionZ: 4,
     worldName: "Bedrock level",
     background: "#000000",
