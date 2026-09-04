@@ -11,7 +11,7 @@ var UnminedMapProperties = {
     worldName: "Bedrock level",
     background: "#000000",
     markers: new Array(),
-    enableGrid: true,
+    enableGrid: false,
     showGrid: true,
     centerX: 0,
     centerZ: 0
