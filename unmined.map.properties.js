@@ -5,7 +5,7 @@ var UnminedMapProperties = {
     defaultZoom: 0,
     imageFormat: "jpeg",
     minRegionX: -36,
-    minRegionZ: -28,
+    minRegionZ: -32,
     maxRegionX: 59,
     maxRegionZ: 25,
     worldName: "Bedrock level",
